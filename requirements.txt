@@ -1,5 +1,5 @@
 flask
-mediapipe
+mediapipe-silicon
 opencv-python
 numpy
 tensorflow
